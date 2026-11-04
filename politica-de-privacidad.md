@@ -48,7 +48,7 @@ Solo los que necesita para funcionar:
 El Bot **no tiene base de datos**. El estado de cada grupo vive en el propio mensaje de Discord, y tu rol y tus profesiones, en tus roles de Discord. Por eso:
 
 - Los datos están en **Discord**, tratados por Discord Inc. según [su Política de Privacidad](https://discord.com/privacy), lo que puede implicar transferencias internacionales.
-- Los registros técnicos están en el equipo donde se aloja el Bot: **servidor propio sito en ESPAÑA]**.
+- Los registros técnicos están en el equipo donde se aloja el Bot: **servidor propio, en España**.
 
 ## 5. Cuánto tiempo se conservan
 
