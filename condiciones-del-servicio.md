@@ -8,11 +8,11 @@ permalink: /condiciones-del-servicio/
 
 **Última actualización: 4 de noviembre de 2026**
 
-Estas condiciones regulan el uso de **J'imothy** (en adelante, «el Bot»), un bot de Discord creado para la hermandad de World of Warcraft **WOW FOREVER**. Al usar sus comandos, botones o formularios aceptas estas condiciones. Si no estás de acuerdo, no uses el Bot.
+Estas condiciones regulan el uso de **J'imothy** (en adelante, «el Bot»), un bot de Discord creado para la hermandad de World of Warcraft **TRASHGELION**. Al usar sus comandos, botones o formularios aceptas estas condiciones. Si no estás de acuerdo, no uses el Bot.
 
 ## 1. Quién ofrece el Bot
 
-El Bot lo opera **[NOMBRE O DENOMINACIÓN DEL TITULAR]** (en adelante, «el Titular»). Puedes contactar en **[CORREO DE CONTACTO]**.
+El Bot lo opera **REIZANMIR** (en adelante, «el Titular»). Puedes contactar en **REIZANMIR@PROTON.ME**.
 
 ## 2. Qué hace el Bot
 
@@ -25,7 +25,7 @@ El Bot es un servicio gratuito, de uso privado de la comunidad, sin ánimo de lu
 ## 3. Requisitos para usarlo
 
 - Debes cumplir las [Condiciones del Servicio](https://discord.com/terms) y las [Normas de la Comunidad](https://discord.com/guidelines) de Discord, incluida la edad mínima que Discord exige en tu país.
-- Debes respetar las normas del servidor de WOW FOREVER y las indicaciones de sus administradores.
+- Debes respetar las normas del servidor de TRASHGELION y las indicaciones de sus administradores.
 
 ## 4. Uso aceptable
 
@@ -70,7 +70,7 @@ El Titular puede modificar estas condiciones. La versión vigente será la publi
 
 ## 12. Ley aplicable
 
-Estas condiciones se rigen por la legislación **[PAÍS, p. ej. española]**. **[Indica, si procede, los juzgados competentes]**.
+Estas condiciones se rigen por la legislación **española**. 
 
 ## 13. Contacto
 
