@@ -74,4 +74,4 @@ Estas condiciones se rigen por la legislación **española**.
 
 ## 13. Contacto
 
-Para cualquier duda o para comunicar un problema: **[CORREO DE CONTACTO]**.
+Para cualquier duda o para comunicar un problema: **REIZANMIR@PROTON.ME**.
