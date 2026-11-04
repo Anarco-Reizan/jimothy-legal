@@ -8,11 +8,11 @@ permalink: /politica-de-privacidad/
 
 **Última actualización: 4 de noviembre de 2026**
 
-Esta política explica qué datos trata **J'imothy** (en adelante, «el Bot»), el bot de Discord de la hermandad de World of Warcraft **WOW FOREVER**, para qué los usa y qué derechos tienes.
+Esta política explica qué datos trata **J'imothy** (en adelante, «el Bot»), el bot de Discord de la hermandad de World of Warcraft **TRASHGELION**, para qué los usa y qué derechos tienes.
 
 ## 1. Responsable del tratamiento
 
-**[NOMBRE O DENOMINACIÓN DEL TITULAR]**, contacto: **[CORREO DE CONTACTO]**.
+**ReizanMIR**, contacto: **REIZANMIR@PROTON.ME**.
 
 ## 2. Qué datos trata el Bot
 
@@ -48,17 +48,17 @@ Solo los que necesita para funcionar:
 El Bot **no tiene base de datos**. El estado de cada grupo vive en el propio mensaje de Discord, y tu rol y tus profesiones, en tus roles de Discord. Por eso:
 
 - Los datos están en **Discord**, tratados por Discord Inc. según [su Política de Privacidad](https://discord.com/privacy), lo que puede implicar transferencias internacionales.
-- Los registros técnicos están en el equipo donde se aloja el Bot: **[DESCRIBE DÓNDE: servidor propio / proveedor de alojamiento y país]**.
+- Los registros técnicos están en el equipo donde se aloja el Bot: **servidor propio sito en ESPAÑA]**.
 
 ## 5. Cuánto tiempo se conservan
 
 - **Grupos:** se borran cuando se quedan sin nadie y unos minutos después de completarse. Un grupo que caduca sin completarse queda marcado como caducado hasta que alguien con permisos lo borra.
 - **Roles de rol y profesión:** hasta que los cambies tú, un administrador los retire o abandones el servidor.
-- **Registros técnicos:** **[INDICA EL PLAZO REAL, p. ej. 30 días]**, y después se eliminan.
+- **Registros técnicos:** **30 días**, y después se eliminan.
 
 ## 6. Tus derechos
 
-Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad escribiendo a **[CORREO DE CONTACTO]**. Responderemos en el plazo legal de un mes.
+Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad escribiendo a **REIZANMIR@PROTON.ME**. Responderemos en el plazo legal de un mes.
 
 Muchos de tus datos los controlas tú directamente: puedes quitarte los roles de rol y profesión volviendo a pulsar sus botones, salir de un grupo con el botón **Salir**, o abandonar el servidor.
 
@@ -78,4 +78,4 @@ Podemos actualizar esta política. La versión vigente es la publicada aquí, co
 
 ## 10. Contacto
 
-Para cualquier duda sobre privacidad: **[CORREO DE CONTACTO]**.
+Para cualquier duda sobre privacidad: **REIZANMIR@PROTON.ME**.
